@@ -1,3 +1,4 @@
+#This tool is intended for educational purposes only. Ensure you have proper permissions before using it.
 from pynput import keyboard
 import os
 
